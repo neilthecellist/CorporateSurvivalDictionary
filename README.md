@@ -7,7 +7,7 @@
 | A fix has been identified | The least-intoxicated engineer is typing on a keyboard |
 | We have implemented a fix | `git push --force` didn't error out|
 | We are monitoring         | Pray for us and don't touch anything, the blinkenlights are back |
-| Scheduled Maintenance     | The security Guy "Found something" so we gotta do some patches and make him happy|
+| Scheduled Maintenance     | The security person "Found something" so we gotta do some patches and make them happy|
 | Elevated Error Rates      | We don't want to admit that outages exist at AWS|
 | Increased API Error Rates | We don't call them Elevated Error Rates anymore because. |
 | We have a plan            | That will happen next year |
@@ -23,5 +23,4 @@
 | Great company culture | Instead of paying proper market rate for your salary, have some company culture™ instead |
 | Scheduled emergency downtime | Our lack of DevOps at the organization means you're getting a 15-minute heads-up that a business critical system will be taken offline in the middle of a busy work day |
 | Scheduled emergency downtime | It's free [chaos engineering](https://github.com/Netflix/chaosmonkey), you should be more grateful we are doing this for you |
-| IAM | The new DNS-like "gotcha" when troubleshooting AWS problems |  
-# github-upload
+| IAM | The new DNS-like "gotcha" when troubleshooting AWS problems |
