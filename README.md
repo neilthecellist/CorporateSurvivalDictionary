@@ -2,6 +2,7 @@
 
 | Status Page               |      English  |
 |---------------------------|---------------|
+| Internal Server Error     | Our exception handling is trash |
 | Service is operating normally | We remain blissfully ignorant of your problem | 
 | We are aware of           |  Support is frantically paging engineering teams |
 | A fix has been identified | The least-intoxicated engineer is typing on a keyboard |
