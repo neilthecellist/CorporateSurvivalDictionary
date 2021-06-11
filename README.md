@@ -25,3 +25,4 @@
 | Scheduled emergency downtime | Our lack of DevOps at the organization means you're getting a 15-minute heads-up that a business critical system will be taken offline in the middle of a busy work day |
 | Scheduled emergency downtime | It's free [chaos engineering](https://github.com/Netflix/chaosmonkey), you should be more grateful we are doing this for you |
 | IAM | The new DNS-like "gotcha" when troubleshooting AWS problems |
+| Increase in ambient temperature | Building is on fire |
