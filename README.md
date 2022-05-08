@@ -27,3 +27,9 @@
 | Scheduled emergency downtime | It's free [chaos engineering](https://github.com/Netflix/chaosmonkey), you should be more grateful we are doing this for you |
 | IAM | The new DNS-like "gotcha" when troubleshooting AWS problems |
 | Increase in ambient temperature | Building is on fire |
+| Fast paced | Understaffed |
+| Unlimited PTO | you'll be pressured to not ever take time off |
+| like a family | toxic |
+| competitive salary | do your research because we WILL lowball you |
+| highly visible role | your manager won't give you air cover |
+| we're looking for a rockstar | we want you to pretend that you love working our unreasonable hours |
