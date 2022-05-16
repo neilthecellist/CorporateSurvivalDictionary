@@ -33,3 +33,4 @@
 | competitive salary | do your research because we WILL lowball you |
 | highly visible role | your manager won't give you air cover |
 | we're looking for a rockstar | we want you to pretend that you love working our unreasonable hours |
+| We're voted %% Best Workplace in FuckKnowsWhat Magazine | We will use this to justify underpaying you |
