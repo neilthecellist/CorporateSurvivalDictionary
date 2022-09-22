@@ -34,3 +34,4 @@
 | highly visible role | your manager won't give you air cover |
 | we're looking for a rockstar | we want you to pretend that you love working our unreasonable hours |
 | We're voted %% Best Workplace in FuckKnowsWhat Magazine | We will use this to justify underpaying you |
+| The effort to build the project is falling behind and is at risk of failure unless immediate steps are taken to correct the problems. | shits on fire yo
