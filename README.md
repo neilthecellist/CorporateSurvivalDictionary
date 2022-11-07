@@ -7,6 +7,7 @@
 | We are aware of           |  Support is frantically paging engineering teams |
 | A fix has been identified | The least-intoxicated engineer is typing on a keyboard |
 | We have implemented a fix | `git push --force` didn't error out|
+| `git rebase` | someone REALLY fucked up |
 | We are monitoring         | Pray for us and don't touch anything, the blinkenlights are back |
 | Scheduled Maintenance     | The security person "Found something" so we gotta do some patches and make them happy|
 | Elevated Error Rates      | We don't want to admit that outages exist at AWS|
@@ -39,5 +40,5 @@
 | high performance | work more than 40 hours |
 | unlimited PTO | it's like normal PTO but without the administrative burden |
 | unlimited PTO (alt definition) | fuck you you're never taking PTO |
-| The effort to build the project is falling behind and is at risk of failure unless immediate steps are taken to correct the problems. | shits on fire yo
-| IBM | Intensive Bowel Movement 
+| The effort to build the project is falling behind and is at risk of failure unless immediate steps are taken to correct the problems. | shits on fire yo |
+| IBM | Intensive Bowel Movement |
