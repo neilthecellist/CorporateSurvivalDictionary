@@ -42,3 +42,6 @@
 | unlimited PTO (alt definition) | fuck you you're never taking PTO |
 | The effort to build the project is falling behind and is at risk of failure unless immediate steps are taken to correct the problems. | shits on fire yo |
 | IBM | Intensive Bowel Movement |
+| `vim` | fuckable |
+| `nano` | unfuckable |
+
