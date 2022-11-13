@@ -1,4 +1,4 @@
-# Statuspage2English
+# Corporate Survival Dictionary
 
 | Status Page               |      English  |
 |---------------------------|---------------|
