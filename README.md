@@ -44,4 +44,7 @@
 | IBM | Intensive Bowel Movement |
 | `vim` | fuckable |
 | `nano` | unfuckable |
+| We do DevOps | We don't actually do DevOps |
+| We offer DevOps services | We don't know what we are selling |
+
 
