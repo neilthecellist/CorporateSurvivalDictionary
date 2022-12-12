@@ -50,5 +50,5 @@
 | `nano` | swipe left |
 | We do DevOps | We don't actually do DevOps |
 | We offer DevOps services | We don't know what we are selling |
-
+| [Westrum Org Model](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture) | If I have to introduce this on a call, your org's culture probably sucks. Please stop pretending that you're a generative org. |
 
