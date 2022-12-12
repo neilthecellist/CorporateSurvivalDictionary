@@ -9,6 +9,8 @@
 | We have implemented a fix | `git push --force` didn't error out|
 | `git rebase` | someone REALLY fucked up |
 | We are monitoring         | Pray for us and don't touch anything, the blinkenlights are back |
+| Increase in ambient temperature | AWS |
+| customers experienced failures when attempting to provision new resources | Microsoft Azure | 
 | We have deprecated | Google Cloud |
 | Scheduled Maintenance     | The security person "Found something" so we gotta do some patches and make them happy|
 | Elevated Error Rates      | We don't want to admit that outages exist at AWS|
