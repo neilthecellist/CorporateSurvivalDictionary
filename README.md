@@ -39,6 +39,7 @@
 | we're looking for a rockstar | we want you to pretend that you love working our unreasonable hours |
 | We're voted %% Best Workplace in FuckKnowsWhat Magazine | We will use this to justify underpaying you |
 | wear many hats | this role is undefined |
+| wear many hats | there's no labor budget, fuck you, you're working 4 different jobs for minimal pay and "equity" |
 | work hard play hard | bro culture |
 | high performance | work more than 40 hours |
 | unlimited PTO | it's like normal PTO but without the administrative burden |
