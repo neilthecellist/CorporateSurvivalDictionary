@@ -56,3 +56,4 @@
 | Help me understand | I'm pissed off at how redundant this entire meeting has gone so far. Please get to the fucking point. |
 | He's (she's/they're) a nice guy but... | they're a terrible resource to my current work objective and I'm going to shred them in conversation right now with you in the nicest way possible |
 | Are you synergizing your actionables right now? | Are you working on real stuff, or just complaining and burning billable hours? |
+| @everyone / @here | I have no respect for your mental health |
