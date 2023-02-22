@@ -57,3 +57,5 @@
 | He's (she's/they're) a nice guy but... | they're a terrible resource to my current work objective and I'm going to shred them in conversation right now with you in the nicest way possible |
 | Are you synergizing your actionables right now? | Are you working on real stuff, or just complaining and burning billable hours? |
 | @everyone / @here / @all | I have no respect for your mental health |
+| I'm glad we got your ducks in a row about that | that's a real game changer, and should lead to us cascading the relevant information to the reqiured stakeholders... Finally. It only took you hours of wasted billable time that you're never going to get back |
+
