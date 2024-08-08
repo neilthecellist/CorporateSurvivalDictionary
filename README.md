@@ -50,7 +50,7 @@
 | `nano` | swipe left |
 | We do DevOps | We don't actually do DevOps |
 | We offer DevOps services | We don't know what we are selling |
-| [Westrum Org Model](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture) | If I have to introduce this on a call, your org's culture probably sucks. Please stop pretending that you're a generative org. |
+| [Westrum Org Model](https://dora.dev/capabilities/generative-organizational-culture/) | If I have to introduce this on a call, your org's culture probably sucks. Please stop pretending that you're a generative org. |
 | We're a one of a kind MSP | We didn't do any competitive research when building out our Managed Services practice |
 | We're a one of a kind MSP | We are in denial |
 | Help me understand | I'm pissed off at how redundant this entire meeting has gone so far. Please get to the fucking point. |
